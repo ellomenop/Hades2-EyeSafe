@@ -1,8 +1,8 @@
 ---@meta _
 ---@diagnostic disable
 
--- local sjson = rom.mods['SGG_Modding-SJSON']
--- local gui_animation_path = rom.path.combine(rom.paths.Content, 'Game/Animations/GUIAnimations.sjson')
+local sjson = rom.mods['SGG_Modding-SJSON']
+local gui_animation_path = rom.path.combine(rom.paths.Content, 'Game/Animations/GUIAnimations.sjson')
 
 -- local icon_order = {
 --     'Name',
