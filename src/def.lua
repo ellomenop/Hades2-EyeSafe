@@ -1,4 +1,4 @@
----@meta ellomenop-LootChoiceExtender
+---@meta ellomenop-EyeSafe
 local public = {}
 
 -- document whatever you made publicly available to other plugins here
