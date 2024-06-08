@@ -8,3 +8,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+
+- Replaced Nemesis Keepsake with Chibi version of her face
+- Prevented second Scylla and the Sirens song from playing
