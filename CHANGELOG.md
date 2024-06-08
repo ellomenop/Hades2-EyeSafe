@@ -7,7 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.1] - 2024-06-08
+
 ### Added
 
 - Replaced Nemesis Keepsake with Chibi version of her face
 - Prevented second Scylla and the Sirens song from playing
+
+[unreleased]: https://github.com/ellomenop/Hades2-EyeSafe/compare/0.0.1...HEAD
+[0.0.1]: https://github.com/ellomenop/Hades2-EyeSafe/compare/8f87b0929dd819ac453aace116ede947902ad1e1...0.0.1
