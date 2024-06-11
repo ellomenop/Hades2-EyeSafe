@@ -7,7 +7,7 @@ local gui_animation_path = rom.path.combine(rom.paths.Content, 'Game/Animations/
 sjson.hook(gui_animation_path, function(data)
 	for index, animation_data in ipairs(data.Animations) do
 		if animation_data.Name == "Keepsake_31" then
-			animation_data.FilePath = "ellomenop-eyesafe\\NemesisReward"
+			animation_data.FilePath = "ellomenop-EyeSafe\\NemesisReward"
 		end
 	end
 end)
