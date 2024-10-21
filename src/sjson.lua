@@ -32,5 +32,8 @@ sjson.hook(gui_portraits_vfx_path, function(data)
 		if animation_data.Name == "Portrait_Scylla_Default_01" then
 			animation_data.FilePath = "ellomenop-EyeSafe\\scylla_portrait"
 		end
+		if animation_data.Name == "Portrait_Scylla_Default_01_Exit" then
+			animation_data.FilePath = "ellomenop-EyeSafe\\scylla_portrait"
+		end
 	end
 end)

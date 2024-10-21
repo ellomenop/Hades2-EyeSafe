@@ -7,7 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+- Replaced Scylla portrait during short exit fade animation
+
 ## [0.0.5] - 2024-10-21
+
+### Added
+- Replaced Chaos keepsake
+- Replaced Athena keepsake
+- Replaced Scylla portrait
 
 ## [0.0.4] - 2024-06-11
 
@@ -18,10 +26,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 2024-06-08
 
 ### Added
-
-- Replaced Scylla portrait
-- Replaced Chaos keepsake
-- Replaced Athena keepsake
 - Replaced Nemesis keepsake
 - Prevented second Scylla and the Sirens song from playing
 
