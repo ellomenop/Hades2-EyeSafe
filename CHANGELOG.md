@@ -7,12 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.6] - 2024-10-21
+
 ### Fixed
+
 - Replaced Scylla portrait during short exit fade animation
 
 ## [0.0.5] - 2024-10-21
 
 ### Added
+
 - Replaced Chaos keepsake
 - Replaced Athena keepsake
 - Replaced Scylla portrait
@@ -26,10 +30,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 2024-06-08
 
 ### Added
+
 - Replaced Nemesis keepsake
 - Prevented second Scylla and the Sirens song from playing
 
-[unreleased]: https://github.com/ellomenop/Hades2-EyeSafe/compare/0.0.5...HEAD
+[unreleased]: https://github.com/ellomenop/Hades2-EyeSafe/compare/0.0.6...HEAD
+[0.0.6]: https://github.com/ellomenop/Hades2-EyeSafe/compare/0.0.5...0.0.6
 [0.0.5]: https://github.com/ellomenop/Hades2-EyeSafe/compare/0.0.4...0.0.5
 [0.0.4]: https://github.com/ellomenop/Hades2-EyeSafe/compare/0.0.3...0.0.4
 [0.0.3]: https://github.com/ellomenop/Hades2-EyeSafe/compare/0.0.2...0.0.3
